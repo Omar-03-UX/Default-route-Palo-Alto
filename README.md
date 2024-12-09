@@ -22,17 +22,6 @@ Setup devices <br/>
 <br />
 <br />
 
-<p align="center">
-Setup devices <br/>
-<img src="https://i.imgur.com/45pAr7e.png" height="80%" width="80%" alt="Palo ping"/>
-<br />
-<br />
-
-<p align="center">
-Setup devices <br/>
-<img src="https://i.imgur.com/vOrhSju.png" height="80%" width="80%" alt="Palo ping"/>
-<br />
-<br />
 
 
 <!--
